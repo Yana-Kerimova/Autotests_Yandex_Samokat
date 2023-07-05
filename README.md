@@ -1,0 +1,1 @@
+# Autotests_Yandex_Samokat
